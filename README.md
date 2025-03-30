@@ -70,4 +70,3 @@ Built by Dalen Tinsley as a hands-on AI recommendation project.
 Mentored and supported with guidance from OpenAI's ChatGPT.
 
 ---
-
